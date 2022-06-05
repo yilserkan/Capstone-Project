@@ -10,6 +10,15 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/Assets/Animation/
+/Assets/Assets/
+/Assets/Materials/
+/Assets/Mirror/
+/Assets/Prefabs/
+/Assets/TextMesh Pro/
+
+/Mirror*
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
