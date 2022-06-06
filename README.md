@@ -12,5 +12,3 @@ There are 3 different question types. The first one makes use of templates. Thes
 ![Screenshot 2022-06-06 083134](https://user-images.githubusercontent.com/80252098/172101001-b45d04ae-820a-4e3a-b5d4-3c67e2e05303.png)
 ![Screenshot 2022-06-06 083210](https://user-images.githubusercontent.com/80252098/172101024-d7b6d6d4-2ac3-45e5-a431-6fa998eb4d2e.png)
 ![Screenshot 2022-06-06 083317](https://user-images.githubusercontent.com/80252098/172101034-4523cf1c-b595-49d3-8780-aff04663b5e3.png)
-
-## Website Screenshots
